@@ -206,8 +206,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or collaborations, please reach out through:
 - GitHub Issues for technical questions
-- Email: [Your email here]
-- LinkedIn: [Your LinkedIn profile]
+- Email: fahad.nadim.ziad@g.bracu.ac.bd
+- LinkedIn: www.linkedin.com/in/fahadnadimziad
 
 ## 🙏 Acknowledgments
 
