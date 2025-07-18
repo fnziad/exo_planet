@@ -100,8 +100,8 @@ EXOplanet/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/EXOplanet.git
-   cd EXOplanet
+   git clone https://github.com/fnziad/exo_planet.git
+   cd exo_planet
    ```
 
 2. **Create virtual environment** (recommended):
